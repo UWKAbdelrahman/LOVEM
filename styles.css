@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(#b32c2c #530f0f);
+    height: 100vh;
+}
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -42,3 +46,19 @@ a {
     object-fit: cover;
     margin: 10px;
 }
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.audio-container {
+    text-align: center;
+}
+nav h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
